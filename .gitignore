@@ -1,0 +1,6 @@
+.godot/
+.local-data/
+.pycache/
+__pycache__/
+assets/
+characters/
